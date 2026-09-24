@@ -1,8 +1,8 @@
-# End Of Support Notice
+~~# End Of Support Notice
 
 I am ending development of my RE Engine addons. No further updates or support will be provided.
 
-Feel free to fork the project if you want to.
+Feel free to fork the project if you want to~~
 
 ---
 
